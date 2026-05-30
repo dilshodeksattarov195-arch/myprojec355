@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailpalculate",
+        "uuid": 3542190,
+        "checksum": "t1mku"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
